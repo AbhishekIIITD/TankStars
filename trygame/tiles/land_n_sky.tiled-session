@@ -1,0 +1,111 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "E:/iiitd/AP/trygame/assets/mainmap.tmx",
+    "expandedProjectPaths": [
+        ".",
+        ".idea"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/Nabh IIITD/Desktop/clouds.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Nabh IIITD/Downloads/firstTile.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3754.5,
+                "y": 264.5
+            }
+        },
+        "C:/Users/Nabh IIITD/Downloads/firstTile.tmx#Hill-PNG-Picture": {
+            "scaleInDock": 1
+        },
+        "E:/iiitd/AP/trygame/assets/clouds.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/iiitd/AP/trygame/assets/firstTile.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3679.6666666666665,
+                "y": 255.66666666666669
+            }
+        },
+        "E:/iiitd/AP/trygame/assets/firstTile.tmx#Hill-PNG-Picture": {
+            "scaleInDock": 1
+        },
+        "E:/iiitd/AP/trygame/assets/grass.tsx": {
+            "scaleInDock": 1
+        },
+        "E:/iiitd/AP/trygame/assets/mainmap.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 244.5,
+                "y": 69.5
+            }
+        },
+        "Sky.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "cloud.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "clouds.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "grass.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 3
+        },
+        "mainmap.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 799.5,
+                "y": 159.5
+            }
+        }
+    },
+    "last.imagePath": "E:/iiitd/AP/trygame/tiles",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 100,
+    "openFiles": [
+        "mainmap.tmx",
+        "C:/Users/Nabh IIITD/Downloads/firstTile.tmx",
+        "grass.tsx",
+        "E:/iiitd/AP/trygame/assets/mainmap.tmx",
+        "E:/iiitd/AP/trygame/assets/firstTile.tmx"
+    ],
+    "project": "land_n_sky.tiled-project",
+    "recentFiles": [
+        "mainmap.tmx",
+        "C:/Users/Nabh IIITD/Downloads/firstTile.tmx",
+        "grass.tsx",
+        "E:/iiitd/AP/trygame/assets/firstTile.tmx",
+        "E:/iiitd/AP/trygame/assets/mainmap.tmx",
+        "clouds.tsx",
+        "cloud.tsx",
+        "C:/Users/Nabh IIITD/Desktop/clouds.tsx",
+        "Sky.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.type": 0
+}
